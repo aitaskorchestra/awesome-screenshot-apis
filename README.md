@@ -29,6 +29,7 @@ Need to capture website screenshots programmatically? This list covers APIs, ope
 | [Thum.io](https://www.thum.io) | Watermarked | From $20/mo | Real-time rendering, simple URL-based. |
 | [PagePeeker](https://pagepeeker.com) | Limited | From $9/mo | Thumbnails and previews. |
 | [SavePage.io](https://savepage.io) | Limited | Free | Desktop and mobile screenshots. |
+| [Hermes Screenshot API](https://hermesforge.dev) | 10/day (free key) | Free + paid tiers | Playwright-based, async queue, Chart Rendering API, AI-agent optimised. |
 
 ## Open Source
 
