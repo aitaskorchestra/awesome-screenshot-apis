@@ -39,6 +39,7 @@ Need to capture website screenshots programmatically? This list covers APIs, ope
 - [Manet](https://github.com/vbauer/manet) - Screenshot-as-a-service using SlimerJS or PhantomJS.
 - [Screenshot API (self-hosted)](https://github.com/alvarcarto/url-to-pdf-api) - Self-hosted URL to PDF/screenshot service.
 - [Webshot](https://github.com/nicam/webshot) - Easy website screenshots using PhantomJS (legacy).
+- [agentshot](https://github.com/vreabernardo/agentshot) - Pay-per-call screenshot API built for autonomous agents. Self-hostable (Playwright), free tier, x402-style HTTP 402 micropayments, no signup.
 
 ## Browser Automation
 
