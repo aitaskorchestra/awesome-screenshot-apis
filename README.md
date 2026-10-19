@@ -23,6 +23,7 @@ Need to capture website screenshots programmatically? This list covers APIs, ope
 | [ScreenshotAPI.net](https://screenshotapi.net) | 100/month | From $9/mo | Lazy-load, full-page, webhooks. |
 | [Screenshotlayer](https://screenshotlayer.com) | 100/month | From $10/mo | Part of APILayer. Simple REST API. |
 | [Browshot](https://browshot.com) | 100 free | From $15/mo | Multiple browsers, mobile emulation. |
+| [ScreenshotRun](https://screenshotrun.com) | 100/month | From $9/mo | Full page, batch capture, custom viewport, PNG/JPEG/WebP. REST API. |
 | [Screenshot Machine](https://screenshotmachine.com) | 100/month | From $5/mo | Thumbnails, full-page, PDFs. |
 | [Microlink](https://microlink.io) | 50/day | From $12/mo | Metadata + screenshots, edge-cached. |
 | [Stillio](https://stillio.com) | None | From $29/mo | Automated scheduled screenshots. |
